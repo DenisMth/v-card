@@ -1,6 +1,6 @@
 body {
     font-family: 'Agency FB', sans-serif;
-    background-image:url("protruding-squares.svg");
+    background-image:url("resources/protruding-squares.svg");
 
     display:flex;
     justify-content:center;
@@ -34,7 +34,7 @@ button {
     width:100px;
     background-position:center;
     background-size:cover;
-    background-image:url("Youtube-logo-red.png");
+    background-image:url("resources/Youtube-logo-red.png");
 
 }
 
@@ -43,7 +43,7 @@ button {
     width:100px;
     background-position:center;
     background-size:cover;
-    background-image:url("768PX_OC.PNG");
+    background-image:url("resources/768PX_OC.PNG");
 
 }
 
@@ -52,7 +52,7 @@ button {
     width:100px;
     background-position:center;
     background-size:cover;
-    background-image:url("768px-Instagram.svg.png");
+    background-image:url("resources/768px-Instagram.svg.png");
 
 }
 
@@ -61,7 +61,7 @@ button {
     width:100px;
     background-position:center;
     background-size:cover;
-    background-image:url("LinkedIn_icon.svg.png");
+    background-image:url("resources/LinkedIn_icon.svg.png");
 
 }
 
