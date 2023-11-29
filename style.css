@@ -1,0 +1,73 @@
+body {
+    font-family: 'Agency FB', sans-serif;
+    background-image:url("protruding-squares.svg");
+
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+
+.card {
+    display:flex;
+    flex-direction :column;
+    justify-content:center;
+   
+    
+}
+
+header {
+    text-align:center;
+    border:13px outset rgb(209, 174, 16);
+    background-color:lightgray;
+    padding : 50px 0;
+    margin-top : 5%;
+    max-width:50%;
+    
+}
+
+button {
+    all:unset;
+}
+
+.youtube {
+    height:100px;
+    width:100px;
+    background-position:center;
+    background-size:cover;
+    background-image:url("Youtube-logo-red.png");
+
+}
+
+.github {
+    height:100px;
+    width:100px;
+    background-position:center;
+    background-size:cover;
+    background-image:url("768PX_OC.PNG");
+
+}
+
+.instagram {
+    height:100px;
+    width:100px;
+    background-position:center;
+    background-size:cover;
+    background-image:url("768px-Instagram.svg.png");
+
+}
+
+.linkedin {
+    height:100px;
+    width:100px;
+    background-position:center;
+    background-size:cover;
+    background-image:url("LinkedIn_icon.svg.png");
+
+}
+
+.photo {
+    
+    width : 20%;
+    margin:auto;
+    border-radius: 20% 0 20% 0;
+}
